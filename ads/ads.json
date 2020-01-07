@@ -1,9 +1,24 @@
 {
-  "icon" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
-  "cover" : "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/poster.jpg", 
-  "appName" : "Heart Crown Photo Editor",
-  "shortDecripsion" : "Look cute girl with hundred of heart crown effect",
-  "package" : "beautyroom.heart.crown.editor",
-  "link" : "",
-  "actionText" : "VISIT APP"
+  "adsApp": [
+    {
+      "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/poster.jpg",
+      "appName": "Heart Crown Photo Editor",
+      "description": "Look cute girl with hundred of heart crown effect",
+      "package": "beautyroom.heart.crown.editor",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/poster.jpg",
+      "appName": "Heart Crown Photo Editor",
+      "description": "Look cute girl with hundred of heart crown effect",
+      "package": "beautyroom.heart.crown.editor",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    }
+  ]
 }
