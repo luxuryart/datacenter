@@ -2,7 +2,7 @@
   "adsApp": [
     {
       "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/poster.png",
+      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/poster.jpg",
       "appName": "Light Crown Photo Editor",
       "description": "Look cute girl with hundred of light crown effect",
       "package": "luxury.art.light.crown.photo.editor",
@@ -12,7 +12,7 @@
     },
     {
       "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/poster2.png",
+      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/poster2.jpg",
       "appName": "Effect for Snapchat",
       "description": "Fantastic photos with Funny face filters. FREE for a limited time! Get alot of filters like dogs,rabbit,eyes,hair,wolf... You ever wanted to have!",
       "package": "luxury.art.effect.snapchat",
