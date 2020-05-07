@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/poster.jpg",
-      "appName": "Light Crown Photo Editor",
-      "description": "Look cute girl with hundred of light crown effect",
-      "package": "luxury.art.light.crown.photo.editor",
+      "appName": "Album Cover Creator",
+      "description": "Treat this app like your very own mixtape cover maker or your cd cover maker. You’ll surely create the best cover art for your cover photo.",
+      "package": "album.cover.creator",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
