@@ -1,0 +1,24 @@
+{
+  "adsApp": [
+    {
+      "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/poster.jpg",
+      "appName": "Album Cover Creator",
+      "description": "Treat this app like your very own mixtape cover maker or your cd cover maker. You’ll surely create the best cover art for your cover photo.",
+      "package": "album.cover.creator",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon2.png",
+      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/poster2.jpg",
+      "appName": "Effect for Snapchat",
+      "description": "Fantastic photos with Funny face filters. FREE for a limited time! Get alot of filters like dogs,rabbit,eyes,hair,wolf... You ever wanted to have!",
+      "package": "luxury.art.effect.snapchat",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    }
+  ]
+}
