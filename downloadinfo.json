@@ -1,6 +1,12 @@
 [
   {
 "luxury.art.effect.snapchat": {
+      "am_ba": "0fnisyBhKs9xdehJboihRRrr3hMPx2VrXZM7+YrUh5gbsNjha2kop0AOHnPs8uYv",
+      "am_in": "0fnisyBhKs9xdehJboihRa5ms0/SWS6LRfO1H89VoMQsgsaxSq550wcc2rom4pJ9",
+      "am_vi": "0fnisyBhKs9xdehJboihRaOu6VTTCX74eLvyh/uOByC+k7cTfZbS9+5ESs4iJyxY",
+      "am_na": "0fnisyBhKs9xdehJboihRZFXrqS6q7GHDnyXPdjt3zLlv3UhjZplHDrFLNnWuJrv"
+    },
+"luxury.art.effect.snapchat.unactive": {
       "am_ba": "Frvm+GDAqK9hofH6XPQbjhe43sibi679ediuJJO01ETONKl4wkTxoC0X9eHWKrE4",
       "am_in": "Frvm+GDAqK9hofH6XPQbjsxSST3Vy7XZhzzFZ4j82sl+FoozMT8LZbeFzl+fQ2ld",
       "am_vi": "Frvm+GDAqK9hofH6XPQbjo8RjMx0yby25I+wTC38Jmer1WJTIPdSllIY8W3WpQLJ",
