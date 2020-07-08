@@ -38,5 +38,11 @@
       "am_vi": "Rn0pSEgDeaQjcI0NNQY3Re7Q/PA/T2+nKAMmnCK4XZiGVNVoXAtu59S39Xjjoec/",
       "am_na": "Rn0pSEgDeaQjcI0NNQY3RdFpMPee9Zckjl6RY9qcT4xcQx336G008pBCmp1eYGP9"
     }
-  }
+  },{
+"common": {
+      "ads_list": [
+        "am",
+        "sa"
+      ]}
+ }
 ]
