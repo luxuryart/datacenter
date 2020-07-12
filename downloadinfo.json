@@ -48,10 +48,10 @@
   },{
 "common": {
       "ads_list": [
-        "sa",
-        "am"
+        "am",
+        "sa"
       ],
-	"disable_sa":true}
+	"disable_sa":false}
 	
  }
 ]
