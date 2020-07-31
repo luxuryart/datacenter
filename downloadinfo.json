@@ -1,5 +1,8 @@
 [
   {
+"luxury.art.neon.horns.devil.crown.photo.editor": {
+"sa_id":"WzNCV2y9ThpXU4GC3gpUqQ=="
+    },
 "luxury.art.crown.heart.emoji.camera": {
 "disable_sa":true
     },
@@ -19,6 +22,7 @@
       "fb_in": "IguMR9D7tsNSIi9I4jwpa8ISg0iaCELJl7f088+E6sA=",
       "fb_re": "IguMR9D7tsNSIi9I4jwpa8ISg0iaCELJl7f088+E6sA=",
       "fb_na": "9aWGpaoQKN4R+Fc2IcDPVfQOoS9spzxfhDbGmsKxSxOHPJV89+Nt5Ug2YlScoF3l",
+	"sa_id":"WzNCV2y9ThpXU4GC3gpUqQ==",
 	"ads_list": ["fb","am"],
 	"disable_sa":true
     },
