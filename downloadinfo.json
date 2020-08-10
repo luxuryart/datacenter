@@ -11,6 +11,13 @@
       "am_in": "DW4GhFBMcmo5AGvwxT31iUKsnIfyYRzWfoqMiDHTYq7N27kRxIAk1vZA0emEPq2Y",
       "am_vi": "",
       "am_na": "DW4GhFBMcmo5AGvwxT31icY7d4auNOT9FNyGgfd9RwPFQ/Apsx00aPIAkK0Kxxoa",
+
+      "fb_ba": "JJ2XuYOBMbgNoHP2+3YQoMJz4BKj29iw64CoOUsI7lI=",
+      "fb_in": "JJ2XuYOBMbgNoHP2+3YQoMaBH7OsOxX31XwcPpHZ8nM=",
+      "fb_re": "JJ2XuYOBMbgNoHP2+3YQoH1766gWQGoGKjaFiNox/VQ=",
+      "fb_na": "JJ2XuYOBMbgNoHP2+3YQoAvppjv9GmWY0EsaE95DIvE=",
+
+      "ads_list": ["sa","am"],
       "disable_sa":false
     },
 "luxury.art.effect.snapchat.debug": {
@@ -50,7 +57,7 @@
       "fb_in": "BFULGWZ9w6t/5h3Ihb2BtKRurXUoJGR/IUyaV/qaUfQ=",
       "fb_re": "BFULGWZ9w6t/5h3Ihb2BtOsbrTdJ+H/SNKJJlZtU0E4=",
       "fb_na": "BFULGWZ9w6t/5h3Ihb2BtBx7xkwMS6ORr14dGxSl4ag=",
-	"ads_list": ["am","fb","sa"],
+	"ads_list": ["fb","sa","am"],
 	"disable_sa":false
     },
 "luxury.art.effect.snapchat.unactive": {
