@@ -1,5 +1,9 @@
 [
   {
+  	"luxury.art.sweet.snap.beauty.selfie.camera.face.filter": {
+      "ads_list": ["sa"],
+      "disable_sa":false
+    },
     "luxury.art.neon.horns.devil.crown.photo.editor": {
       "am_ba": "DW4GhFBMcmo5AGvwxT31iQJR6Zsc0wXw7r+ZMRC0MGnI0T7v7KJmPCGQ5JU4HDOK",
       "am_in": "DW4GhFBMcmo5AGvwxT31icScrORe9GKKrAGXBKsS5jafQ2tszVYSolPoolW20Bpz",
