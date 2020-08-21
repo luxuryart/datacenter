@@ -1,5 +1,13 @@
 [
   {
+  	 "luxury.art.halloween.photo.frame": {
+      "ads_list": ["sa"],
+      "disable_sa":false
+    },
+  	 "luxury.art.year.photo.frame": {
+      "ads_list": ["sa"],
+      "disable_sa":false
+    },
   	"luxury.art.sweet.snap.beauty.selfie.camera.face.filter": {
       "ads_list": ["sa"],
       "disable_sa":false
