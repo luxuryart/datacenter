@@ -17,7 +17,14 @@
       "am_in": "DW4GhFBMcmo5AGvwxT31icScrORe9GKKrAGXBKsS5jafQ2tszVYSolPoolW20Bpz",
       "am_vi": "DW4GhFBMcmo5AGvwxT31ibOLDBPO7nxyAXqBDwuvMvQ73cQzJjJETWTnoVzacNBU",
       "am_na": "DW4GhFBMcmo5AGvwxT31iVyG3A7XDnbiICTOM8LqWlNsch/9ah1FPHQl0JS3p0sT",
-      "ads_list": ["am"]
+
+       "fb_ba": "v6S9JybbEwBsrypr5uYqmfub3kSs0c7NS63ur3Ia5PVrVY8t017hxfeIkuP3yPA/",
+      "fb_in": "v6S9JybbEwBsrypr5uYqmbpS8zVhiXKnjqAEJxIb36kscBYISF+xXz6zKzMwQUst",
+      "fb_re": "v6S9JybbEwBsrypr5uYqmXyQe612SPL+wa2NZG5EiVLeqZZOU1n5K6sfsxJGaXhR",
+      "fb_na": "v6S9JybbEwBsrypr5uYqmUG8/J0JAPUld5cBChkr5N5OIx8msh0OkRMsIw7gSSBj",
+
+      "ads_list": ["fb","am"]
+
     },
 "luxury.art.hair.tryon": {
       "am_ba": "DW4GhFBMcmo5AGvwxT31iV6kyVjeVE0EPe/zLKWgFd/RqY+7y8R1pcq2BrIY5HhR",
