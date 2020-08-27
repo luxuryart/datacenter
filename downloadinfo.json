@@ -1,14 +1,14 @@
 [
   {
-  	 "luxury.art.halloween.photo.frame": {
+  	 "luxury.art.halloween.photo.frame.test": {
       "ads_list": ["sa"],
       "disable_sa":false
     },
-  	 "luxury.art.year.photo.frame": {
+  	 "luxury.art.year.photo.frame.test": {
       "ads_list": ["sa"],
       "disable_sa":false
     },
-  	"luxury.art.sweet.snap.beauty.selfie.camera.face.filter": {
+  	"luxury.art.sweet.snap.beauty.selfie.camera.face.filter.test": {
       "ads_list": ["sa"],
       "disable_sa":false
     },
