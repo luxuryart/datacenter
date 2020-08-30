@@ -1,5 +1,21 @@
 [
   {
+  	"luxury.art.face.emoji.photo.editor": {
+  	  "fb_ba": "gEQ0NBMefw/s/uqYuHy+gDBJtfsNg+Ws+Rt72B5/rFJMt8pCyTWrRjmxwdvUyT0W",
+      "fb_in": "gEQ0NBMefw/s/uqYuHy+gC/fb2MG6KdrHSE1cM06qyDBBJQxYMcmMOyrlQ8zR14Z",
+      "fb_re": "gEQ0NBMefw/s/uqYuHy+gNrdZ+HCD1oejNN7f1TOTKrQIbs+XdtIi43tbLpEfX6f",
+      "fb_na": "gEQ0NBMefw/s/uqYuHy+gOCo6l8RrTgyEL4eKjYVlMuAaz25LBsqCLfia4VF4WAe",
+
+      "ads_list": ["fb"]
+    },
+  	"luxury.art.crown.heart.emoji.camera": {
+  		 "fb_ba": "uik4y+XBCGoGggt9ndC//InnH3j3Z07Z5wnxRmT+7Wk=",
+      "fb_in": "uik4y+XBCGoGggt9ndC//Phem0ZoNkwI/6aQUHgAMNU=",
+      "fb_re": "uik4y+XBCGoGggt9ndC//OwVKWDVqyYiZfcRLBkzuYM=",
+      "fb_na": "uik4y+XBCGoGggt9ndC//DrfP+9TiGgRq3zPA49rJsU=",
+
+      "ads_list": ["fb"]
+    },
   	 "luxury.art.halloween.photo.frame.test": {
       "ads_list": ["sa"],
       "disable_sa":false
