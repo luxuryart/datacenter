@@ -2,7 +2,7 @@
   "adsApp": [
     {
       "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/poster2.jpg",
+      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/poster2.png",
       "appName": "Devil Horn Photo Editor",
       "description": "Scare your friends or family with your new devil horns Face created with our devil horns photo camera.",
       "package": "sweet.candy.devil.horn.photo.editor.neon",
