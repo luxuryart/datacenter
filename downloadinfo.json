@@ -113,6 +113,11 @@
       "ads_list": ["sa","am"],
       "disable_sa":false
     },
+    "com.beauty.photo.editor": {
+      "am_ba": "AUJ8efay5ymV5nJkFkRXXg==",
+      "disable_sa":true,
+      "hide_ad_home":true
+    },
 
 "luxury.art.mother.day.photo.frame": {
       "ads_list": ["sa","am"],
