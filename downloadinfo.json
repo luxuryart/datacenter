@@ -129,6 +129,7 @@
         "am",
         "sa"
       ],
+      "hide_ad_home":true,
 	"disable_sa":true}
 	
  }
