@@ -24,14 +24,16 @@
     },
 
     "luxury.art.live.face.camera.free.cute.funny.motion.sticker": {
-      "am_ba": "DW4GhFBMcmo5AGvwxT31ifj40QNcrBFVI4w1IJp3BVbLDmGuK+HmFL3tiH0CRSqR",
+      "am_ba": "DW4GhFBMcmo5AGvwxT31iZC9vvp6EeFVVT19vfvlH/+um7vP5n3mifXDn02dyqOG",
+      "am_in": "DW4GhFBMcmo5AGvwxT31iZKQzCWLEms1MmnasimPWIWV71kk2VZHhT20C/rH0AGD",
+      "am_na": "DW4GhFBMcmo5AGvwxT31ico8AansrK+FcaaA5NIYLkbqbeAZst4cFfu+IuVroiiS",
 
       "fb_ba": "no9hqDEyWpn+E5ashvgl7cVcgM12vEDF8QgGCv/w4P8=",
       "fb_in": "no9hqDEyWpn+E5ashvgl7Q+dz25zi3uioxzf5tIamoQ=",
       "fb_re": "no9hqDEyWpn+E5ashvgl7cVPgMF2K7uSigmUWhvftiY=",
       "fb_na": "no9hqDEyWpn+E5ashvgl7Z/IkerQRBBX0QBHxtpkOF4=",
 
-      "ads_list": ["fb"]
+      "ads_list": ["fb", "am"]
     },
 
 
@@ -65,10 +67,10 @@
     },
 
     "luxury.art.neon.horns.devil.crown.photo.editor": {
-       "am_ba": "DW4GhFBMcmo5AGvwxT31iQI1fapaU8QhJpA4mT1bdP2Gw1NsytsQ26xlIFDElZTH",
-       "am_in": "DW4GhFBMcmo5AGvwxT31iUV1OsRe/EnJp4vWxRpH5UGHrkaGrybIY5DFGsptwE6Q",
+       "am_ba": "DW4GhFBMcmo5AGvwxT31iYCpQhyWM/aB1w3s4TiB8K7tV4AW2hKn4rLcINejchxe",
+       "am_in": "DW4GhFBMcmo5AGvwxT31ifpNihRe7i4QAGpm12vNmY81+RnSU2aOYHD4A2bUdfFR",
        "am_vi": "",
-       "am_na": "DW4GhFBMcmo5AGvwxT31iXR82lNuLiKBwTVS116X8RmRQesHSIganl00I8OxFtOm",
+       "am_na": "DW4GhFBMcmo5AGvwxT31iRKOZSnbA/yHlK2hGfKox6XSG4eZkHgDimaZ+o0ymRPN",
 
 
        "fb_ba": "v6S9JybbEwBsrypr5uYqmfub3kSs0c7NS63ur3Ia5PVrVY8t017hxfeIkuP3yPA/",
@@ -76,7 +78,7 @@
       "fb_re": "v6S9JybbEwBsrypr5uYqmXyQe612SPL+wa2NZG5EiVLeqZZOU1n5K6sfsxJGaXhR",
       "fb_na": "v6S9JybbEwBsrypr5uYqmUG8/J0JAPUld5cBChkr5N5OIx8msh0OkRMsIw7gSSBj",
 
-      "ads_list": ["fb"]
+      "ads_list": ["fb", "am"]
 
     },
 "luxury.art.hair.tryon": {
