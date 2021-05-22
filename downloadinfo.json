@@ -10,30 +10,30 @@
     },
 
   	"luxury.art.sweet.face.camera.live.filter.selfie.photo.edit": {
-  		"am_ba": "DW4GhFBMcmo5AGvwxT31iRyJgMD7MU5g0hi8dKQpivTzoR4AOq/Wb93xMYUvgTdZ",
-      "am_in": "DW4GhFBMcmo5AGvwxT31iR0iGPrW/WrDdladJxQTk7u2tROX9tB8ybFRMybik1vi",
+  		"am_ba": "",
+      "am_in": "",
       "am_vi": "",
-      "am_na": "DW4GhFBMcmo5AGvwxT31iQAYHEFeIs+awAUGX1b3EL7FTAZbXhTWViq3WMsTbz9L",
+      "am_na": "",
 
   	  "fb_ba": "8axmmBXazszHbvvTEpc1ic4ynEe17Vr578+8NbKOaRI=",
       "fb_in": "8axmmBXazszHbvvTEpc1iUx45nHBwKNvo+jX/bfrLZ0=",
       "fb_re": "8axmmBXazszHbvvTEpc1iYtLrC16G7LqzA/8r+YeAnY=",
       "fb_na": "8axmmBXazszHbvvTEpc1iX9vqcqo2r19JhQ6i4/mU+o=",
 
-      "ads_list": ["fb", "am"]
+      "ads_list": ["fb"]
     },
 
     "luxury.art.live.face.camera.free.cute.funny.motion.sticker": {
-      "am_ba": "DW4GhFBMcmo5AGvwxT31iZC9vvp6EeFVVT19vfvlH/+um7vP5n3mifXDn02dyqOG",
-      "am_in": "DW4GhFBMcmo5AGvwxT31iZKQzCWLEms1MmnasimPWIWV71kk2VZHhT20C/rH0AGD",
-      "am_na": "DW4GhFBMcmo5AGvwxT31ico8AansrK+FcaaA5NIYLkbqbeAZst4cFfu+IuVroiiS",
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
 
       "fb_ba": "no9hqDEyWpn+E5ashvgl7cVcgM12vEDF8QgGCv/w4P8=",
       "fb_in": "no9hqDEyWpn+E5ashvgl7Q+dz25zi3uioxzf5tIamoQ=",
       "fb_re": "no9hqDEyWpn+E5ashvgl7cVPgMF2K7uSigmUWhvftiY=",
       "fb_na": "no9hqDEyWpn+E5ashvgl7Z/IkerQRBBX0QBHxtpkOF4=",
 
-      "ads_list": ["fb", "am"]
+      "ads_list": ["fb"]
     },
 
 
@@ -67,10 +67,10 @@
     },
 
     "luxury.art.neon.horns.devil.crown.photo.editor": {
-       "am_ba": "DW4GhFBMcmo5AGvwxT31iYCpQhyWM/aB1w3s4TiB8K7tV4AW2hKn4rLcINejchxe",
-       "am_in": "DW4GhFBMcmo5AGvwxT31ifpNihRe7i4QAGpm12vNmY81+RnSU2aOYHD4A2bUdfFR",
+       "am_ba": "",
+       "am_in": "",
        "am_vi": "",
-       "am_na": "DW4GhFBMcmo5AGvwxT31iRKOZSnbA/yHlK2hGfKox6XSG4eZkHgDimaZ+o0ymRPN",
+       "am_na": "",
 
 
        "fb_ba": "v6S9JybbEwBsrypr5uYqmfub3kSs0c7NS63ur3Ia5PVrVY8t017hxfeIkuP3yPA/",
@@ -78,7 +78,7 @@
       "fb_re": "v6S9JybbEwBsrypr5uYqmXyQe612SPL+wa2NZG5EiVLeqZZOU1n5K6sfsxJGaXhR",
       "fb_na": "v6S9JybbEwBsrypr5uYqmUG8/J0JAPUld5cBChkr5N5OIx8msh0OkRMsIw7gSSBj",
 
-      "ads_list": ["fb", "am"]
+      "ads_list": ["fb"]
 
     },
 "luxury.art.hair.tryon": {
