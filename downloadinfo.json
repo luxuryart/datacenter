@@ -24,13 +24,17 @@
     },
 
     "luxury.art.live.face.camera.free.cute.funny.motion.sticker": {
+      "am_ba": "pgEbRrponMMd0XPvEcTknDJNWGKc/anOSagN6L9OrpOhNkMO49NNVxwZh3tXnyCX",
+      "am_in": "pgEbRrponMMd0XPvEcTknK44f2VZg3vQa+E8CSY5MgA773NifwIEcNh/GPnzCX6b",
+      "am_vi": "",
+      "am_na": "pgEbRrponMMd0XPvEcTknO/Ru4gIlEgOlw7zxPciDTtgthxiKlQuha+Jw1ZFpvSB",
 
       "fb_ba": "no9hqDEyWpn+E5ashvgl7cVcgM12vEDF8QgGCv/w4P8=",
       "fb_in": "no9hqDEyWpn+E5ashvgl7Q+dz25zi3uioxzf5tIamoQ=",
       "fb_re": "no9hqDEyWpn+E5ashvgl7cVPgMF2K7uSigmUWhvftiY=",
       "fb_na": "no9hqDEyWpn+E5ashvgl7Z/IkerQRBBX0QBHxtpkOF4=",
 
-      "ads_list": ["fb"]
+      "ads_list": ["am", "fb"]
     },
 
 
@@ -73,7 +77,7 @@
       "fb_re": "v6S9JybbEwBsrypr5uYqmXyQe612SPL+wa2NZG5EiVLeqZZOU1n5K6sfsxJGaXhR",
       "fb_na": "v6S9JybbEwBsrypr5uYqmUG8/J0JAPUld5cBChkr5N5OIx8msh0OkRMsIw7gSSBj",
 
-      "ads_list": ["am", "fb"]
+      "ads_list": ["fb", "am"]
 
     },
 "luxury.art.hair.tryon": {
