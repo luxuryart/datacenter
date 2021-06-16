@@ -39,12 +39,17 @@
 
 
   	"luxury.art.face.emoji.photo.editor": {
+      "am_ba": "DW4GhFBMcmo5AGvwxT31ieBUNR1ahiglkUGM5kCCRRZcNyd1sLltW1avKanpz0LI",
+      "am_in": "DW4GhFBMcmo5AGvwxT31icSlOlC4uo0g7UNt9Ccmedpfi7lcGVpXJ/qj9z0wDFg3",
+      "am_vi": "",
+      "am_na": "DW4GhFBMcmo5AGvwxT31iaE4LOzS4lR5tGD/+gaNtOfW9meBNOw2EgKjgQyHO7E1",
+
   	  "fb_ba": "gEQ0NBMefw/s/uqYuHy+gDBJtfsNg+Ws+Rt72B5/rFJMt8pCyTWrRjmxwdvUyT0W",
       "fb_in": "gEQ0NBMefw/s/uqYuHy+gC/fb2MG6KdrHSE1cM06qyDBBJQxYMcmMOyrlQ8zR14Z",
       "fb_re": "gEQ0NBMefw/s/uqYuHy+gNrdZ+HCD1oejNN7f1TOTKrQIbs+XdtIi43tbLpEfX6f",
       "fb_na": "gEQ0NBMefw/s/uqYuHy+gOCo6l8RrTgyEL4eKjYVlMuAaz25LBsqCLfia4VF4WAe",
 
-      "ads_list": ["fb"]
+      "ads_list": ["am", "fb"]
     },
   	"luxury.art.crown.heart.emoji.camera": {
   		 "fb_ba": "uik4y+XBCGoGggt9ndC//InnH3j3Z07Z5wnxRmT+7Wk=",
