@@ -82,7 +82,12 @@
       "fb_re": "v6S9JybbEwBsrypr5uYqmXyQe612SPL+wa2NZG5EiVLeqZZOU1n5K6sfsxJGaXhR",
       "fb_na": "v6S9JybbEwBsrypr5uYqmUG8/J0JAPUld5cBChkr5N5OIx8msh0OkRMsIw7gSSBj",
 
-      "ads_list": ["fb", "am"]
+      "mp_ba": "o06gP4IzNzY2A0QeOq+qHNXR/5drUq1WYz6iPida16nkbSYGKUg+98DGcqX87Tf/",
+      "mp_re": "q/Pi6rF80Kf6sj1zPhxvs3PD+Bbggr/t9NOe+kRoR9PdZ8wRZxaIRM7yQA+MBTly",
+      "mp_in": "tEf6hQPd9HuREClZ8jj47m+vLzIxiQgnteq7uxLX9+ciQwkQAbEf4pTiPqjoLcss",
+      "mp_na": "ASHo3c6w4mj72d7z5UxV19ACk4m/YmNBh9XIti88ySCFYCZcN1BKxfxCyodqnzDI",
+
+      "ads_list": ["mp", "fb", "am"]
 
     },
 "luxury.art.hair.tryon": {
