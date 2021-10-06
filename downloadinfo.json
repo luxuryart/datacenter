@@ -29,7 +29,12 @@
       "fb_re": "no9hqDEyWpn+E5ashvgl7cVPgMF2K7uSigmUWhvftiY=",
       "fb_na": "no9hqDEyWpn+E5ashvgl7Z/IkerQRBBX0QBHxtpkOF4=",
 
-      "ads_list": ["fb"]
+      "mp_ba": "JSdPgOEx2F1IHmkrH0huIAzOad3I3XaUKGVFhV3R5eKKJXYTQJyXS+uxZ2+TomWa",
+      "mp_re": "OrD5nrGR++WKEbHjMfsSVFMc3P66CdIunbjixxI7StBvLe5aPVS2p31QtknI7JmU",
+      "mp_in": "iSy0Wg5m4AaI+fXenmKmoqwJRk6UlvuDwFrYA+ZfhK7OWqXNEahPz5cJaC9FflIL",
+      "mp_na": "HUIiWKAwedgediWsW3sVweJCf702mtRx2UQMm72YHwIoGsfOWHzj82ZgSCUjbjgD",
+
+      "ads_list": ["fb", "mp"]
     },
 
 
@@ -57,7 +62,12 @@
       "fb_re": "uik4y+XBCGoGggt9ndC//OwVKWDVqyYiZfcRLBkzuYM=",
       "fb_na": "uik4y+XBCGoGggt9ndC//DrfP+9TiGgRq3zPA49rJsU=",
 
-      "ads_list": ["fb", "am"]
+      "mp_ba": "JSdPgOEx2F1IHmkrH0huIAzOad3I3XaUKGVFhV3R5eKKJXYTQJyXS+uxZ2+TomWa",
+      "mp_re": "OrD5nrGR++WKEbHjMfsSVFMc3P66CdIunbjixxI7StBvLe5aPVS2p31QtknI7JmU",
+      "mp_in": "iSy0Wg5m4AaI+fXenmKmoqwJRk6UlvuDwFrYA+ZfhK7OWqXNEahPz5cJaC9FflIL",
+      "mp_na": "HUIiWKAwedgediWsW3sVweJCf702mtRx2UQMm72YHwIoGsfOWHzj82ZgSCUjbjgD",
+
+      "ads_list": ["fb", "am", "mp"]
     },
   	 "luxury.art.halloween.photo.frame.test": {
       "ads_list": ["sa"],
