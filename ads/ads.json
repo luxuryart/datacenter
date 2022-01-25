@@ -2,10 +2,10 @@
   "adsApp": [
     {
       "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/graphic2.png",
-      "appName": "Filters for Selfies",
+      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/graphic2.jpg",
+      "appName": "Selfie Camera Filter",
       "description": "Fantastic add photo filters and stickers free and creative, cool smiley filters and stickers & emojis",
-      "package": "beautyrooom.filtersforselfie.sweet.face.camera.selfies",
+      "package": "foto.arte.selfie.camera.filter.beauty",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
