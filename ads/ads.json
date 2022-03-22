@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon2.png",
       "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/graphic2.png",
-      "appName": "Live face sticker sweet",
-      "description": "Fantastic add photo filters and stickers free and creative, cool smiley filters and stickers & emojis",
-      "package": "frame.art.master.live.face.sticker.sweet.camera",
+      "appName": "Photo Creator",
+      "description": "Photo Creator enables you create photo collage, make stickers, and add stylish effects, filters and presets in one tap.",
+      "package": "foto.arte.photo.creator",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
