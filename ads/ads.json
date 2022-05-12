@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/graphic1.png",
+      "appName": "Sweet Face Camera",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds.",
+      "package": "sweet.snap.face.camera.art",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/graphic.png",
       "appName": "Filters for Selfies",
       "description": "Filters for Selfies is the best choice for you if you are looking for an outstanding selfie filter camera!",
       "package": "filters.selfies.foto.art",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/graphic2.png",
-      "appName": "Photo Creator",
-      "description": "Photo Creator enables you create photo collage, make stickers, and add stylish effects, filters and presets in one tap.",
-      "package": "foto.arte.photo.creator",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
