@@ -24,12 +24,14 @@
     },
 
     "luxury.art.live.face.camera.free.cute.funny.motion.sticker": {
+      "am_in": "XKFgiMa4dgaRn8eLYYQR39uz1RETNezR9aYPzHtPQ1g+AiWGvnYtUgCOicXGEMhx",
+
       "fb_ba": "no9hqDEyWpn+E5ashvgl7cVcgM12vEDF8QgGCv/w4P8=",
       "fb_in": "no9hqDEyWpn+E5ashvgl7Q+dz25zi3uioxzf5tIamoQ=",
       "fb_re": "no9hqDEyWpn+E5ashvgl7cVPgMF2K7uSigmUWhvftiY=",
       "fb_na": "no9hqDEyWpn+E5ashvgl7Z/IkerQRBBX0QBHxtpkOF4=",
 
-      "ads_list": ["fb"]
+      "ads_list": ["am", "fb"]
     },
 
 
