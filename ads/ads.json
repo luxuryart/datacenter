@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/graphic1.png",
+      "appName": "Filters for pictures",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds.",
+      "package": "filters.pictures.beauty",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/graphic.png",
       "appName": "Makeup Camera",
       "description": "Makeup Camera is the best choice for you if you are looking for an outstanding selfie filter camera!",
       "package": "photoBeautyPlus.makeup.camera",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/luxuryart/datacenter/master/ads/graphic1.png",
-      "appName": "Sweet Face Camera",
-      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds.",
-      "package": "sweet.snap.face.camera.art",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
